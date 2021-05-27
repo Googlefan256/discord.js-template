@@ -12,7 +12,7 @@ $ npm install discord.js
 # starting
 get the files by running
 ```
-$ git clone
+$ git clone https://github.com/Googlefan256/discord.js-template/tree/main/multi
 ```
 please change **config.json.example** to **config.json**  
 in the **config.json** write your bot's token and prefix.  
