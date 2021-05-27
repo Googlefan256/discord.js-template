@@ -17,7 +17,7 @@ try{
  command.execute(/*execute options*/);
 }catch(error){
 
-             ↓
+            ↓
 
 try{
  command.execute(message);
