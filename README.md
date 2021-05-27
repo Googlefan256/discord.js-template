@@ -12,5 +12,5 @@ discord.jsのマルチファイルbotのサンプルコードです。
 (windows7,10,macOS10.7~11.0,ubuntuOS,termuxでの動作を検証済みです。)
 # 使い方
 discord.jsでbotを作るのが初めての方は、シングルファイル版を利用することを推奨します。  
-- マルチファイル版は[ここ](multi/README.md)を読んでください。  
-- シングルファイル版は[ここ](single/README.md)を読んでください。  
+- マルチファイル版は[ここ](multi/README.md#discord.js-テンプレート)を読んでください。  
+- シングルファイル版は[ここ](single/README.md#discord.js-テンプレート)を読んでください。  
