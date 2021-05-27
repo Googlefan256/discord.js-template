@@ -39,6 +39,10 @@ discord.jsのマルチファイルbotのサンプルコードです。
 $ npm install discord.js
 ```
 # セットアップ
+以下のコマンドを実行して、ファイルを入手してください。
+```
+$ git clone https://github.com/Googlefan256/discord.js-template/tree/main/multi
+```
 **config.json.example** を **config.json**に変えてください。
 **config.json**にbotのトークンとprefixを書いてください。  
 **main.js** の一部のコードを以下のように書き換えてください:
