@@ -12,8 +12,10 @@ $ npm install discord.js
 # starting
 get the files by running
 ```
-$ git clone https://github.com/Googlefan256/discord.js-template/tree/main/multi
+$ git clone https://github.com/Googlefan256/discord.js-template/
 ```
+inside of the file, there is a folder 'multi'  
+(Other folders aren't necesarry so you may delete them.)  
 please change **config.json.example** to **config.json**  
 in the **config.json** write your bot's token and prefix.  
 change codes in **main.js** like this:
@@ -41,8 +43,10 @@ $ npm install discord.js
 # セットアップ
 以下のコマンドを実行して、ファイルを入手してください。
 ```
-$ git clone https://github.com/Googlefan256/discord.js-template/tree/main/multi
+$ git clone https://github.com/Googlefan256/discord.js-template/
 ```
+入手したファイルからmultiというフォルダを抜き出してください。  
+(それ以外のファイルは不要です)  
 **config.json.example** を **config.json**に変えてください。
 **config.json**にbotのトークンとprefixを書いてください。  
 **main.js** の一部のコードを以下のように書き換えてください:
