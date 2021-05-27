@@ -10,6 +10,10 @@ you can install by this:
 $ npm install discord.js
 ```
 # starting
+get the files by running
+```
+$ git clone
+```
 please change **config.json.example** to **config.json**  
 in the **config.json** write your bot's token and prefix.  
 change codes in **main.js** like this:
