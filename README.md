@@ -3,8 +3,8 @@ sample code for discord.js bots.
 for ALL OS which node works.  
 (windows7,10,macOS10.7~11.0,ubuntuOS,termux are checked by me.)
 # how to use
-If you want to have your bots with multi folders, please read [here](https.com/Googlefan256/discord.js-template/blob/main/multi/README.md)  
-If you want to have your bots with a single folder, please read [here](https.com/Googlefan256/discord.js-template/blob/main/single/README.md)  
+If you want to have your bots with multi folders, please read [here](multi/README.md)  
+If you want to have your bots with a single folder, please read [here](single/README.md)  
 # discord.js-テンプレート
 discord.jsのマルチファイルbotのサンプルコードです。  
 このサンプルコードはnodejsが動く**すべての**プラットフォームで利用が可能です。  
