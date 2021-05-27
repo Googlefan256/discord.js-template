@@ -1,6 +1,7 @@
 # discord.js-template
 sample code for discord.js bots.  
-for ALL OS which node works.
+for ALL OS which node works.  
+(windows7,10,macOS10.7~11.0,ubuntuOS,termux are checked by me.)
 # installation
 nodejs and npm**must** be installed.  
 the package you need for working is **discord.js**  
@@ -25,7 +26,8 @@ try{
 ```
 # discord.js-テンプレート
 discord.jsのマルチファイルbotのサンプルコードです。  
-このサンプルコードはnodejsが動く**すべての**プラットフォームで利用が可能です。(windows7,10,macOS10.7~11.0,ubuntuOS,termuxでの動作を検証済みです。)
+このサンプルコードはnodejsが動く**すべての**プラットフォームで利用が可能です。  
+(windows7,10,macOS10.7~11.0,ubuntuOS,termuxでの動作を検証済みです。)
 # 環境セットアップ
 **まずはnodejsをインストールしてください。**  
 **discord.js**が必要なので以下のコマンドでインストールしてください:
