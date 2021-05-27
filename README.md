@@ -13,4 +13,4 @@ discord.jsのマルチファイルbotのサンプルコードです。
 # 使い方
 discord.jsでbotを作るのが初めての方は、シングルファイル版を利用することを推奨します。  
 - マルチファイル版は[ここ](multi/README.md#discordjs-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)を読んでください。  
-- シングルファイル版は[ここ](single/README.md#discord.js-テンプレート)を読んでください。  
+- シングルファイル版は[ここ](single/README.md#discordjs-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)を読んでください。  
