@@ -16,9 +16,7 @@ change codes in **main.js** like this:
 try{
  command.execute(/*execute options*/);
 }catch(error){
-```
              ↓
-```js
 try{
  command.execute(message);
 }catch(error){
