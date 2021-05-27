@@ -28,8 +28,7 @@ for (const folders2 of files) {
 	}
 }
 client.on('message', async message => {
-	if(message.author.bot)return;
-	if (!message.content.startsWith(prefix))return;
+	if(message.author.bot || !message.content.startsWith(prefix))return;
 	const args = message.content.slice(prefix.length).trim().split(/ +/);
 	const commandName = args.shift().toLowerCase();
 	const command = client.commands.get(commandName) || client.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
